@@ -33,12 +33,12 @@ Google Fonts – Typography
  ┗ 📄 README.md
 
 🚀 Live Demo
-👉 Live Website: (Add your GitHub Pages link here)
+👉 Live Website: ( https://surajkumar9113.github.io/coffee_shop-website/)
 https://yourusername.github.io/coffee-website/
 
 📥 How to Use
 Clone the repository
-git clone https://github.com/yourusername/coffee-website.git
+git clone   https://github.com/surajkumar9113
 Open index.html in your browser
 
 ✨ Future Improvements
